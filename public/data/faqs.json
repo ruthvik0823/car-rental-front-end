@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What documents do I need to rent a car?",
+    "answer": "To rent a car, you will need a valid driver's license, a credit card in your name, and a government-issued photo ID (such as a passport or national ID). International renters may also need to present an International Driving Permit (IDP) in addition to their home country driver’s license."
+  },
+  {
+    "question": "Is there an age requirement to rent a car?",
+    "answer": "Yes, most car rental companies require drivers to be at least 21 years old. Some companies may have a minimum age of 18, but this often comes with additional fees. Drivers under 25 may also incur a young driver surcharge."
+  },
+  {
+    "question": "Can I add an additional driver to my rental?",
+    "answer": "Yes, you can add an additional driver to your rental agreement. However, the additional driver must meet the same age and documentation requirements as the primary driver. There may also be an extra fee for adding an additional driver."
+  },
+  {
+    "question": "What should I do if the rental car breaks down or I get into an accident?",
+    "answer": "If the rental car breaks down, contact the rental company immediately for assistance. If you get into an accident, ensure everyone's safety first, then contact the police and the rental company to report the incident. Follow their instructions for next steps."
+  },
+  {
+    "question": "Is there a mileage limit on my rental?",
+    "answer": "Many rental companies offer unlimited mileage, but some may have restrictions based on the rental agreement. Always check the terms and conditions of your rental to understand any mileage limits that may apply."
+  }
+]

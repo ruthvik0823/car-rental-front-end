@@ -1,0 +1,44 @@
+[
+    {
+        "locationId": "9b903ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Kyiv Hayatt Hotel",
+        "locationAddress": "Alla Tarasova Street 5, Kyiv 01001",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/9b903ebf-2b18-4946-bc58-045d86a2632e.jpg"
+    },
+    {
+        "locationId": "1b203ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Boston Downtown",
+        "locationAddress": "Beacon Street 23, Boston, MA 02108",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/boston-01.jpg"
+    },
+    {
+        "locationId": "3c304ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Tokyo Central",
+        "locationAddress": "Chiyoda, Tokyo 100-0001",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/tokyo-01.jpg"
+    },
+    {
+        "locationId": "4d405ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Paris Champs-Élysées",
+        "locationAddress": "Avenue des Champs-Élysées, 75008 Paris",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/paris-01.jpg"
+    },
+    {
+        "locationId": "5e506ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Sydney Opera House",
+        "locationAddress": "Bennelong Point, Sydney NSW 2000",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/sydney-01.jpg"
+    },
+    {
+        "locationId": "6f607ebf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "New York Times Square",
+        "locationAddress": "Times Square, New York, NY 10036",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/nyc-01.jpg"
+    },
+    {
+        "locationId": "7g708fbf-2b18-4946-bc58-045d86a2632e",
+        "locationName": "Dubai Marina",
+        "locationAddress": "Dubai Marina, Dubai, UAE",
+        "locationImageUrl": "https://application.s3.eu-central-1.amazonaws.com/img/locations/dubai-01.jpg"
+    }
+]

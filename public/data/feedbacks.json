@@ -1,0 +1,98 @@
+[
+    {
+        "feedbackId": "21b5fcdb-f486-4ea1-ae1f-d3e7de6b57c2",
+        "author": "Isabella Lewis",
+        "carModel": "Audi A6 Quattro 2023",
+        "feedbackText": "Average experience, car was a bit dirty.",
+        "carImageUrl": "/images/cars/car1.png",
+        "orderHistory": "#1006 (27.04.25)",
+        "rating": "3.0",
+        "bookingId": "17657bc6-7b97-4624-b12c-99d2f369d5b3",
+        "date": "2025-05-10",
+        "location": "Ukraine, Kyiv"
+    },
+    {
+        "feedbackId": "4398296e-cd2d-4c51-a4ea-6f771eb8e52a",
+        "author": "Isabella Lewis",
+        "carModel": "Tesla Model 3 2023",
+        "feedbackText": "Car was in excellent condition.",
+        "carImageUrl": "/images/cars/car3.png",
+        "orderHistory": "#1007 (27.04.25)",
+        "rating": "3.0",
+        "bookingId": "7ebb0d00-c32a-4bfd-8f9b-e90d422d8b01",
+        "date": "2025-05-20",
+        "location": "USA, San Francisco"
+    },
+    {
+        "feedbackId": "b94b9132-b79c-4aee-9da7-7153f11e73dc",
+        "author": "Isabella Lewis",
+        "carModel": "Tesla Model 3 2023",
+        "feedbackText": "Great service and clean cars!",
+        "carImageUrl": "/images/cars/car3.png",
+        "orderHistory": "#1008 (27.04.25)",
+        "rating": "4.6",
+        "bookingId": "67daa70e-75fc-4658-b177-8f4253b2068d",
+        "date": "2025-05-19",
+        "location": "USA, San Francisco"
+    },
+    {
+        "feedbackId": "b844ec53-8f6a-4e01-a892-48564181f141",
+        "author": "Isabella Lewis",
+        "carModel": "Tesla Model 3 2023",
+        "feedbackText": "Fantastic ride! Highly recommended.",
+        "carImageUrl": "/images/cars/car3.png",
+        "orderHistory": "#1009 (27.04.25)",
+        "rating": "3.5",
+        "bookingId": "227234df-13bb-4aee-bb4e-b2f15f3715e3",
+        "date": "2025-05-10",
+        "location": "USA, San Francisco"
+    },
+    {
+        "feedbackId": "738d62bd-bddc-4d76-acfa-79047ebe7743",
+        "author": "Isabella Lewis",
+        "carModel": "Tesla Model 3 2023",
+        "feedbackText": "Average experience, car was a bit dirty.",
+        "carImageUrl": "/images/cars/car3.png",
+        "orderHistory": "#1010 (27.04.25)",
+        "rating": "3.3",
+        "bookingId": "ea533c80-0d77-4d04-a280-ea95c29fe3ed",
+        "date": "2025-05-18",
+        "location": "USA, San Francisco"
+    },
+    {
+        "feedbackId": "1f83fb10-e687-42fb-a659-bba39c42a885",
+        "author": "Ethan King",
+        "carModel": "Audi A6 Quattro 2023",
+        "feedbackText": "Car was in excellent condition.",
+        "carImageUrl": "/images/cars/car1.png",
+        "orderHistory": "#1001 (27.04.25)",
+        "rating": "4.5",
+        "bookingId": "7e6f9d34-c11f-4991-8edc-bcc68284a99a",
+        "date": "2025-05-05",
+        "location": "Ukraine, Kyiv"
+    },
+    {
+        "feedbackId": "768f9bd9-74d7-45bf-8ab8-31a135ea33a8",
+        "author": "Mason Martinez",
+        "carModel": "Audi Q7 2022",
+        "feedbackText": "Great service and clean cars!",
+        "carImageUrl": "/images/cars/car5.png",
+        "orderHistory": "#1003 (27.04.25)",
+        "rating": "3.8",
+        "bookingId": "a6cd2534-7a71-4b0e-bdc1-b09282e6e3cc",
+        "date": "2025-05-05",
+        "location": "Italy, Rome"
+    },
+    {
+        "feedbackId": "af97718a-a029-461f-9543-dd2c4d5766c2",
+        "author": "Charlotte Nelson",
+        "carModel": "Lexus RX 2023",
+        "feedbackText": "Car was in excellent condition.",
+        "carImageUrl": "/images/cars/car7.png",
+        "orderHistory": "#1004 (27.04.25)",
+        "rating": "4.2",
+        "bookingId": "c6c28509-7dbc-45cf-90ca-81a308ca679b",
+        "date": "2025-04-29",
+        "location": "Japan, Tokyo"
+    }
+]

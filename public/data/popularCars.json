@@ -1,0 +1,42 @@
+[
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": 4.5,
+    "imageUrl": "/images/cars/car1.png",
+    "location": "Ukraine, Kyiv",
+    "model": "Audi A6 Quattro 2023",
+    "pricePerDay": "180",
+    "serviceRating": 4.8,
+    "status": "AVAILABLE"
+  },
+  {
+    "carId": "45bcd928-12fe-4a6a-b58b-314fbfd4a301",
+    "carRating": 4.5,
+    "imageUrl": "/images/cars/img1.png",
+    "location": "France, Paris",
+    "model": "Peugeot 208 2021",
+    "pricePerDay": "70",
+    "serviceRating": 4.2,
+    "status": "AVAILABLE"
+  },
+  {
+    "carId": "781fcad5-78b9-4e2f-a2b5-5b25f45e2c11",
+    "carRating": 4.3,
+    "imageUrl": "/images/cars/car3.png",
+    "location": "USA, San Francisco",
+    "model": "Tesla Model 3 2023",
+    "pricePerDay": "220",
+    "serviceRating": 4.7,
+    "status": "AVAILABLE"
+  },
+  {
+    "carId": "dd82161e-d983-4454-aac6-5e7cf5c727bb",
+    "carRating": 4.2,
+    "imageUrl": "/images/cars/car4.png",
+    "location": "France, Paris",
+    "model": "Mercedes-Benz C300 2021",
+    "pricePerDay": "170",
+    "serviceRating": 4.5,
+    "status": "UNAVAILABLE"
+  }
+]
